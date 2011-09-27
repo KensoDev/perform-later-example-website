@@ -2,3 +2,7 @@
 db/*.sqlite3
 log/*.log
 tmp/
+perform_later_sample_website.sublime-project
+perform_later_sample_website.sublime-workspace
+untitled.sublime-project
+untitled.sublime-workspace
